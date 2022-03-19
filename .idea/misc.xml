@@ -4,12 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_mart.xml" value="0.12" />
         <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_restaurant.xml" value="0.152" />
         <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/all_res_item.xml" value="0.176" />
         <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/custom_toolbar.xml" value="0.152" />
+        <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/custom_toolbar_mart.xml" value="0.152" />
         <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/exclusives_item.xml" value="0.2" />
         <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/offer_item.xml" value="0.1" />
+        <entry key="..\:/Users/mszga/AndroidStudioProjects/FoodApp/app/src/main/res/layout/slider_layout.xml" value="0.1" />
       </map>
     </option>
   </component>

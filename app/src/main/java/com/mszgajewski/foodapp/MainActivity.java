@@ -19,5 +19,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this,RestaurantActivity.class   ));
             }
         });
+
+        findViewById(R.id.mart).setOnClickListener(new View.OnClickListener() {
+
+            @Override
+        public void onClick(View view) {
+            startActivity(new Intent(MainActivity.this,MartActivity.class   ));
+        }
+    });
     }
 }
