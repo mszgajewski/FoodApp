@@ -7,11 +7,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
 
 import com.mszgajewski.foodapp.adapters.CategoryAdapter;
-import com.mszgajewski.foodapp.adapters.ExclusiveAdapter;
 import com.mszgajewski.foodapp.adapters.LaysAdapter;
 import com.mszgajewski.foodapp.adapters.TeaCoffeAdapter;
 import com.mszgajewski.foodapp.models.CategoryModels;
-import com.mszgajewski.foodapp.models.ExclusiveModels;
 import com.mszgajewski.foodapp.models.SnackModels;
 import com.mszgajewski.foodapp.models.TeaCoffeModels;
 import com.smarteist.autoimageslider.SliderViewAdapter;
