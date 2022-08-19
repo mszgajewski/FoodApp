@@ -12,7 +12,7 @@ import com.mszgajewski.foodapp.adapters.TeaCoffeAdapter;
 import com.mszgajewski.foodapp.models.CategoryModels;
 import com.mszgajewski.foodapp.models.SnackModels;
 import com.mszgajewski.foodapp.models.TeaCoffeModels;
-import com.smarteist.autoimageslider.SliderViewAdapter;
+import com.smarteist.autoimageslider.*;
 
 
 import com.mszgajewski.foodapp.adapters.SliderAdapter;
