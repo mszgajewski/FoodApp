@@ -18,7 +18,7 @@
             android:id="@+id/editText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Szukaj produktu albo kategorii"
+            android:text="Produkt albo kategoria"
             android:textSize="13sp"
             android:background="@drawable/edit_txt_bg"
             android:padding="15dp"
